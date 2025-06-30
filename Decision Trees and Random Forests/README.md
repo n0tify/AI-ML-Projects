@@ -1,7 +1,7 @@
  Decision Trees and Random Forests - Heart Disease Classification
 ✅ Objective:
 To build and evaluate tree-based models (Decision Tree and Random Forest) to classify whether a patient has heart disease or not.
-
+---
 🛠️ Tools Used:
 Python
 
@@ -14,7 +14,7 @@ Matplotlib
 Seaborn
 
 Graphviz (for tree visualization, optional)
-
+---
 📂 Dataset:
 Dataset Name: Heart Disease UCI Dataset
 
@@ -23,7 +23,7 @@ Source: Kaggle
 Link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
 Target Variable: target (1 = Disease, 0 = No Disease)
-
+---
 ✅ Project Highlights:
 🎯 Tasks Performed:
 Loaded and explored the dataset.
@@ -45,7 +45,7 @@ Evaluated and compared both models.
 Analyzed feature importance for Random Forest.
 
 Saved all relevant visualizations.
-
+---
 ✅ Model Performance:
 Model	Accuracy
 Decision Tree	~0.8390
@@ -57,7 +57,7 @@ Random Forest	~0.8511
 🎨 Decision Tree Visualization (decision_tree_plot.png)
 
 🎨 Random Forest Feature Importance (random_forest_feature_importance.png)
-
+---
 ✅ Interview Level Learnings:
 How decision trees work
 
@@ -70,7 +70,7 @@ Why Random Forest reduces overfitting (bagging technique)
 Feature importance interpretation
 
 Model evaluation using Accuracy, Precision, Recall, F1 Score
-
+---
 ✅ Folder Structure:
 Decision Trees and Random Forests/
 ├── data/
